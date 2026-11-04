@@ -5,3 +5,8 @@ p {
    padding-left: 40px;
    border: 2px solid black;
 }
+
+ul {
+   list-style-image: url('https://cdn.freecodecamp.org/platform/universal/freecodecamp-org-gravatar.jpeg');
+   list-style-position: inside;
+}

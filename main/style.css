@@ -1,12 +1,37 @@
+body {
+   /* shorthand */
+     /* background: center top fixed
+      url("https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"); */
+   /* scale the image as large as possible without cropping ar stretching */
+   /* background-size: contain;  */
+   /* the background image will scale to cover the entire body*/
+   /* background-image: cover; */
+   /* the image will no longer repeat on screen  */
+   /* background-repeat: no-repeat; */
+   /* the background image repeat horizontally  */
+   /* background-repeat: repeat-x; */
+   /* the background image repeat vertically  */
+   /* background-repeat: repeat-y; */
+   /* background image scrolls with the content and fixed */
+}
+
 p {
-   padding-top: 10px;
+   /* padding-top: 10px;
    padding-right: 20px;
    padding-bottom: 30px;
    padding-left: 40px;
-   border: 2px solid black;
+   border: 2px solid black; */
 }
 
-ul {
+/* ul.item {
    list-style-image: url('https://cdn.freecodecamp.org/platform/universal/freecodecamp-org-gravatar.jpeg');
    list-style-position: inside;
-}
+} */
+
+/* 
+.linear-gradient {
+   background: linear-gradient(to right, red, yellow);
+   background: radial-gradient(circle closest-side at center, red, yellow 50%, green);
+   height: 60vh;
+} */
+
